@@ -24,6 +24,8 @@ I'm a dedicated Web Developer with a strong passion for clean code, creative UI,
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![PrimeNG](https://img.shields.io/badge/-PrimeNG-0C7CD5?logo=primefaces&logoColor=white)
 
 **Backend & Tools:**
 
