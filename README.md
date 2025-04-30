@@ -41,8 +41,8 @@ I'm a dedicated Web Developer with a strong passion for clean code, creative UI,
 
 ## 📈 GitHub Stats
 
-![Raghad's GitHub stats](https://github-readme-stats.vercel.app/api?username=raghadalahmadi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raghadalahmadi&layout=compact&theme=radical)
+![Raghad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghad-Alahmadi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghad-Alahmadi&layout=compact&theme=radical)
 
 ---
 
