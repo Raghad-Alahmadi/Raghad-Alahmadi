@@ -50,7 +50,3 @@ I'm a dedicated Web Developer with a strong passion for clean code, creative UI,
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raghad--alahmadi)
 - 📧 Email: `raghadd.adnan@gmail.com`
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
